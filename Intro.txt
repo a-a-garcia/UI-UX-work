@@ -1,1 +1,51 @@
-User Interface (UI) Design is a design discipline focused on the visual elements of the interface, for example
+User Interface (UI) Design is a design discipline focused on the visual elements of the interface, for example:
+
+Layout: Where do elements appear on the screen?
+
+Colors: What palette is used? What emotions do those colors evoke?
+
+Typography: What typefaces are used? What do they communicate?
+
+Interaction design: How do elements respond to user interaction?
+
+Brand Identity: How do all of the visual elements come together to represent the brands vision?
+
+Accessibility/Inclusivity: Does the interface work for as many people as possible?
+
+Front-End Dev: Whats the code and technical backbone powering the interface?
+
+User Experience (UX) Design describes the entire experience around a product or service, taking into account the user's emotional state, the context/environment, and the designed system or artifact.
+
+From the 2000's onwards, UX is focused on systems design being as pleasant as possible for users.
+
+User journey: The entire process surrounding use of a product, from the problem to be solved through the impact of the solution.
+
+User research: Qualitative and quantitative research to put the user at the center of the design process.
+
+Deliverables: Document the user experience and defined the workflows and features of a product or design, such as -
+
+    Personas: Summaries of example and target users, generally based on a composite of user research.
+
+    Journey maps: A timeline of user actions related to accomplishing a particular goal related to a product or design.
+
+    Storyboards: A sequence of panels (often resembling a comic book) depicting a user story, chronologically.
+
+    Prototypes: Iterative models, sketches or wireframes of a design, used to gather feedback and inform the final design.
+
+5 Elements of UX Design - From Abstract to Concrete
+
+Abstract:
+
+Strategy - What problem is the product intended to solve? The user needs and buisness goals are decided.
+
+Scope - What is the product that will be create to solve this problem? What features to build and the written and visual information to be included are decided.
+
+Structure - How is the design organized, and how do interactions work? The strucure and organization of content and the interactive experience of the products are decided.
+
+Skeleton - How is the information presented, and arranged?
+The design of interface elements, how users move through a system, how information is presented to facilitate understanding are all decided. (Wireframing is often done at this stage, or at the next)
+
+... to Concrete:
+
+Surface - How does the product look and feel to users? 
+What colors, typefaces, and UI is decided.

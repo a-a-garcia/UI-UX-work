@@ -1,0 +1,22 @@
+The Double Diamond Model: A broadly applicable process model for a cross-functional, iterative design or innovation process.
+
+The two diamond structure of the double diamond illustrates two modes of thinking that occur during strategization. 
+
+Divergent thinking explores many possible solutions and exercises creativity.
+
+Convergent thinking analyzes, filters, and focuses ideas leading to decision making.
+
+That being said, the four phases of double diamond are: 
+
+1. Discover (divergent) :
+Explore the problem + landscape, and learn from users and the market through interviews, surveys, and other research.
+
+2. Define (convergent) :
+
+Sort + analyze info gathered, hone in problem trying to solve.
+
+3. Develop (divergent) :
+generate range of ideas for possible solutions through brainstorming, workshopping, low fidelity prototype, other iteration. Test ideas w users or within company.
+
+4. Deliver (convergent): hone, develop, deliver solution. Convinut evaluatin and testing developed design.
+
